@@ -1,4 +1,12 @@
 translate
 =========
+OpenCart Translate
 
-OpenCart is a free open source ecommerce platform for online merchants. OpenCart provides a professional and reliable foundation from which to build a successful online store.
+License:
+GNU General Public License version 3 (GPLv3)
+
+OpenCart Ukrainian Repository:
+http://github.com/opencart-ukraine
+
+OpenCart Ukrainian Community:
+http://opencart-ukraine.tumblr.com

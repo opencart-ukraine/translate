@@ -1,0 +1,26 @@
+<?php
+/***********************************************************************************************************************
+
+Version 1.4.9.6
+Created 15:41 30.08.2011 UTF-8
+Copyright (C) 2010 Ukrainian Localization by OpenCart Ukrainian Team (http://github.com/opencart-ukraine). All rights reserved.
+
+Translators:
+ Eugene Kuligin (http://github.com/shaman)
+ and others.
+
+Responsible for Translation:
+ Eugene Kuligin (http://github.com/shaman)
+
+License http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL
+Ask a question http://github.com/opencart-ukraine
+
+************************************************************************************************************************/
+
+$_['heading_title'] = 'Самовивіз зі складу'; #23142
+$_['text_shipping'] = 'Доставка'; #23143
+$_['text_success'] = 'Інформацію про самовивіз успішно змінено!'; #23144
+$_['entry_geo_zone'] = 'Гео-зона:'; #23145
+$_['entry_status'] = 'Статус:'; #23146
+$_['entry_sort_order'] = 'Порядок сортування:'; #23147
+$_['error_permission'] = 'Ви не маєте повноважень для зміни інформації про самовивіз!'; #23148
