@@ -1,8 +1,8 @@
 <?php
 /***********************************************************************************************************************
 
-Version 1.4.9.6
-Created 15:41 30.08.2011 UTF-8
+Version 1.5.5.1
+Created 19:13 20.05.2013 UTF-8
 Copyright (C) 2010 Ukrainian Localization by OpenCart Ukrainian Team (http://github.com/opencart-ukraine). All rights reserved.
 
 Translators:
@@ -17,6 +17,5 @@ Ask a question http://github.com/opencart-ukraine
 
 ************************************************************************************************************************/
 
-$_['text_weight'] = 'Вага:'; #21846
-$_['text_title'] = 'Доставка на основі ваги'; #22374
-$_['text_allzones'] = 'Усі зони'; #24117
+$_['text_title'] = 'Доставка на основі ваги'; #40121
+$_['text_weight'] = 'Вага:'; #39833

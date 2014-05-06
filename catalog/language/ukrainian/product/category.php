@@ -1,13 +1,14 @@
 <?php
 /***********************************************************************************************************************
 
-Version 1.4.9.6
-Created 15:41 30.08.2011 UTF-8
+Version 1.5.5.1
+Created 19:13 20.05.2013 UTF-8
 Copyright (C) 2010 Ukrainian Localization by OpenCart Ukrainian Team (http://github.com/opencart-ukraine). All rights reserved.
 
 Translators:
  Aleksandr Rebrov (http://webplaneta.com.ua)
  Eugene Kuligin (http://github.com/shaman)
+ Roman Shtepa (xr0m3oz@gmail.com)
  and others.
 
 Responsible for Translation:
@@ -18,17 +19,29 @@ Ask a question http://github.com/opencart-ukraine
 
 ************************************************************************************************************************/
 
-$_['text_product'] = 'Продукти'; #21694
-$_['text_empty'] = 'Ця категорія порожня.'; #21695
-$_['text_stars'] = '%s з 5 балів!'; #21696
-$_['text_sort'] = 'Сортування'; #21697
-$_['text_price_asc'] = 'Ціною: Низькі > Високі'; #21698
-$_['text_price_desc'] = 'Ціною: Високі < Низькі'; #21699
-$_['text_rating_asc'] = 'Низьким рейтингом'; #21700
-$_['text_error'] = 'Категорію не знайдено!'; #22377
-$_['text_default'] = 'За замовчуванням'; #22378
-$_['text_name_asc'] = 'Ім’ям від А до Я'; #22379
-$_['text_name_desc'] = 'Ім’ям від Я до А'; #22380
-$_['text_rating_desc'] = 'Високим рейтингом'; #22381
-$_['text_model_asc'] = 'Моделлю від Я до А'; #22382
-$_['text_model_desc'] = 'Моделлю від Я до А'; #22383
+$_['text_refine'] = 'Уточнити пошуковий запит'; #42052
+$_['text_product'] = 'Товари'; #39703
+$_['text_error'] = 'Категорію не знайдено!'; #40124
+$_['text_empty'] = 'Ця категорія порожня.'; #39704
+$_['text_quantity'] = 'Кількість:'; #41566
+$_['text_manufacturer'] = 'Бренд:'; #41567
+$_['text_model'] = 'Товарний код:'; #41568
+$_['text_points'] = 'Бонусні бали:'; #42098
+$_['text_price'] = 'Ціна:'; #41569
+$_['text_tax'] = 'Податок на обмін:'; #42473
+$_['text_reviews'] = 'Базовано на %s відгуках.'; #41570
+$_['text_compare'] = 'Порівняння товарів (%s)'; #41571
+$_['text_display'] = 'Показувати:'; #41572
+$_['text_list'] = 'Список'; #41573
+$_['text_grid'] = 'Сітка'; #41574
+$_['text_sort'] = 'Сортування'; #39705
+$_['text_default'] = 'За замовчуванням'; #40125
+$_['text_name_asc'] = 'Ім’ям від А до Я'; #40126
+$_['text_name_desc'] = 'Ім’ям від Я до А'; #40127
+$_['text_price_asc'] = 'Ціною: Низькі > Високі'; #39706
+$_['text_price_desc'] = 'Ціною: Високі < Низькі'; #39707
+$_['text_rating_asc'] = 'Низьким рейтингом'; #39708
+$_['text_rating_desc'] = 'Високим рейтингом'; #40128
+$_['text_model_asc'] = 'Моделлю від Я до А'; #40129
+$_['text_model_desc'] = 'Моделлю від Я до А'; #40130
+$_['text_limit'] = 'Відображати:'; #41575

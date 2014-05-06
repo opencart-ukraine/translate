@@ -1,12 +1,12 @@
 <?php
 /***********************************************************************************************************************
 
-Version 1.4.9.6
-Created 15:41 30.08.2011 UTF-8
+Version 1.5.5.1
+Created 19:13 20.05.2013 UTF-8
 Copyright (C) 2010 Ukrainian Localization by OpenCart Ukrainian Team (http://github.com/opencart-ukraine). All rights reserved.
 
 Translators:
- Aleksandr Rebrov (http://webplaneta.com.ua)
+ Eugene Kuligin (http://github.com/shaman)
  and others.
 
 Responsible for Translation:
@@ -17,6 +17,5 @@ Ask a question http://github.com/opencart-ukraine
 
 ************************************************************************************************************************/
 
-$_['entry_postcode'] = 'Поштовий індекс'; #22013
-$_['entry_country'] = 'Країна'; #22014
-$_['entry_zone'] = 'Область'; #22015
+$_['text_title'] = 'Кредитна карта / Дебетова карта (Google Checkout)'; #43318
+$_['error_shipping'] = 'Увага: необхідно вказати спосіб доставки!'; #43577

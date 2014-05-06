@@ -1,14 +1,9 @@
 <?php
 /***********************************************************************************************************************
 
-Version 1.4.9.6
-Created 15:41 30.08.2011 UTF-8
+Version 1.5.5.1
+Created 19:13 20.05.2013 UTF-8
 Copyright (C) 2010 Ukrainian Localization by OpenCart Ukrainian Team (http://github.com/opencart-ukraine). All rights reserved.
-
-Translators:
- Aleksandr Rebrov (http://webplaneta.com.ua)
- Eugene Kuligin (http://github.com/shaman)
- and others.
 
 Responsible for Translation:
  Eugene Kuligin (http://github.com/shaman)
@@ -18,10 +13,8 @@ Ask a question http://github.com/opencart-ukraine
 
 ************************************************************************************************************************/
 
-$_['heading_title'] = 'Кошик'; #21703
-$_['text_subtotal'] = 'Разом:'; #21704
-$_['text_remove'] = 'Видалити'; #21705
-$_['text_checkout'] = 'Оформити'; #21706
-$_['text_empty'] = 'Ваш кошик порожній'; #22414
-$_['text_confirm'] = 'Підтвердити?'; #22415
-$_['text_view'] = 'Переглянути'; #24092
+$_['heading_title'] = 'Кошик'; #43137
+$_['text_items'] = '%s товар (товарів) - %s'; #43138
+$_['text_empty'] = 'Ваш кошик порожній'; #43139
+$_['text_cart'] = 'Переглянути кошик'; #43140
+$_['text_checkout'] = 'Оформити замовлення'; #43141

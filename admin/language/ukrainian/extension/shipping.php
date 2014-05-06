@@ -1,8 +1,8 @@
 <?php
 /***********************************************************************************************************************
 
-Version 1.4.9.6
-Created 15:41 30.08.2011 UTF-8
+Version 1.5.5.1
+Created 19:13 20.05.2013 UTF-8
 Copyright (C) 2010 Ukrainian Localization by OpenCart Ukrainian Team (http://github.com/opencart-ukraine). All rights reserved.
 
 Translators:
@@ -18,11 +18,11 @@ Ask a question http://github.com/opencart-ukraine
 
 ************************************************************************************************************************/
 
-$_['heading_title'] = 'Доставка'; #21894
-$_['text_install'] = 'Інсталювати'; #21895
-$_['text_uninstall'] = 'Деінсталювати'; #21896
-$_['column_name'] = 'Метод доставки'; #21897
-$_['column_status'] = 'Статус'; #21898
-$_['column_sort_order'] = 'Порядок сортування'; #21899
-$_['column_action'] = 'Дія'; #21900
-$_['error_permission'] = 'Ви не маєте повноважень для редагування методів доставки!'; #22786
+$_['heading_title'] = 'Доставка'; #39865
+$_['text_install'] = 'Інсталювати'; #39866
+$_['text_uninstall'] = 'Деінсталювати'; #39867
+$_['column_name'] = 'Метод доставки'; #39868
+$_['column_status'] = 'Статус'; #39869
+$_['column_sort_order'] = 'Порядок сортування'; #39870
+$_['column_action'] = 'Дія'; #39871
+$_['error_permission'] = 'Ви не маєте повноважень для редагування методів доставки!'; #40418

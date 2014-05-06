@@ -1,8 +1,8 @@
 <?php
 /***********************************************************************************************************************
 
-Version 1.4.9.6
-Created 15:41 30.08.2011 UTF-8
+Version 1.5.5.1
+Created 19:13 20.05.2013 UTF-8
 Copyright (C) 2010 Ukrainian Localization by OpenCart Ukrainian Team (http://github.com/opencart-ukraine). All rights reserved.
 
 Translators:
@@ -17,8 +17,8 @@ Ask a question http://github.com/opencart-ukraine
 
 ************************************************************************************************************************/
 
-$_['text_title'] = 'Parcelforce 48'; #21854
-$_['text_description'] = 'Parcelforce 48'; #21855
-$_['text_weight'] = 'Вага:'; #21856
-$_['text_insurance'] = 'Застраховано до:'; #21857
-$_['text_time'] = 'Термін доставки до 48 годин'; #21858
+$_['text_title'] = 'Parcelforce 48'; #39839
+$_['text_description'] = 'Parcelforce 48'; #39840
+$_['text_weight'] = 'Вага:'; #39841
+$_['text_insurance'] = 'Застраховано до:'; #39842
+$_['text_time'] = 'Термін доставки до 48 годин'; #39843

@@ -1,8 +1,8 @@
 <?php
 /***********************************************************************************************************************
 
-Version 1.4.9.6
-Created 15:41 30.08.2011 UTF-8
+Version 1.5.5.1
+Created 19:13 20.05.2013 UTF-8
 Copyright (C) 2010 Ukrainian Localization by OpenCart Ukrainian Team (http://github.com/opencart-ukraine). All rights reserved.
 
 Translators:
@@ -18,14 +18,9 @@ Ask a question http://github.com/opencart-ukraine
 
 ************************************************************************************************************************/
 
-$_['heading_title'] = 'Модулі'; #21874
-$_['text_install'] = 'Встановити'; #21875
-$_['text_uninstall'] = 'Видалити'; #21876
-$_['text_left'] = 'Зліва'; #21877
-$_['text_right'] = 'Зправа'; #21878
-$_['column_name'] = 'Назва модуля'; #21879
-$_['column_position'] = 'Позиція'; #21880
-$_['column_status'] = 'Статус'; #21881
-$_['column_sort_order'] = 'Порядок сортування'; #21882
-$_['column_action'] = 'Дія'; #21883
-$_['error_permission'] = 'Ви не маєте повноважень для зміни налаштувань модуля!'; #22784
+$_['heading_title'] = 'Модулі'; #39850
+$_['text_install'] = 'Встановити'; #39851
+$_['text_uninstall'] = 'Видалити'; #39852
+$_['column_name'] = 'Назва модуля'; #39853
+$_['column_action'] = 'Дія'; #39854
+$_['error_permission'] = 'Ви не маєте повноважень для зміни налаштувань модуля!'; #40416

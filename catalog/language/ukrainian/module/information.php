@@ -1,8 +1,8 @@
 <?php
 /***********************************************************************************************************************
 
-Version 1.4.9.6
-Created 15:41 30.08.2011 UTF-8
+Version 1.5.5.1
+Created 19:13 20.05.2013 UTF-8
 Copyright (C) 2010 Ukrainian Localization by OpenCart Ukrainian Team (http://github.com/opencart-ukraine). All rights reserved.
 
 Translators:
@@ -18,6 +18,6 @@ Ask a question http://github.com/opencart-ukraine
 
 ************************************************************************************************************************/
 
-$_['heading_title'] = 'Інформація'; #21710
-$_['text_sitemap'] = 'Мапа сайту'; #21711
-$_['text_contact'] = 'Контакти'; #22418
+$_['heading_title'] = 'Інформація'; #39711
+$_['text_contact'] = 'Контакти'; #40160
+$_['text_sitemap'] = 'Мапа сайту'; #39712
