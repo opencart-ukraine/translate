@@ -1,8 +1,8 @@
 <?php
 /***********************************************************************************************************************
 
-Version 1.5.5.1
-Created 19:13 20.05.2013 UTF-8
+Version 1.5.6
+Created 23:02 15.01.2014 UTF-8
 Copyright (C) 2010 Ukrainian Localization by OpenCart Ukrainian Team (http://github.com/opencart-ukraine). All rights reserved.
 
 Translators:
@@ -17,18 +17,18 @@ Ask a question http://github.com/opencart-ukraine
 
 ************************************************************************************************************************/
 
-$_['text_information'] = 'Інформація'; #41650
-$_['text_service'] = 'Сервісні служби'; #41662
-$_['text_extra'] = 'Додатково'; #41663
-$_['text_contact'] = 'Контакти'; #41652
-$_['text_return'] = 'Повернення'; #41653
-$_['text_sitemap'] = 'Мапа сайту'; #41654
-$_['text_manufacturer'] = 'Бренди'; #41655
-$_['text_voucher'] = 'Подарункові сертифікати'; #41656
-$_['text_affiliate'] = 'Партнерська програма'; #41657
-$_['text_special'] = 'Спеціальні'; #41664
-$_['text_account'] = 'Обліковий запис'; #41651
-$_['text_order'] = 'Історія замовлень'; #41658
-$_['text_wishlist'] = 'Список бажаних товарів'; #41659
-$_['text_newsletter'] = 'Розсилання новин'; #41660
-$_['text_powered'] = 'Працює на <a href="http://github.com/opencart-ukraine">OpenCart</a><br /> %s &copy; %s'; #41661
+$_['text_information'] = 'Інформація'; #45925
+$_['text_service'] = 'Сервісні служби'; #45937
+$_['text_extra'] = 'Додатково'; #45938
+$_['text_contact'] = 'Контакти'; #45927
+$_['text_return'] = 'Повернення'; #45928
+$_['text_sitemap'] = 'Мапа сайту'; #45929
+$_['text_manufacturer'] = 'Бренди'; #45930
+$_['text_voucher'] = 'Подарункові сертифікати'; #45931
+$_['text_affiliate'] = 'Партнерська програма'; #45932
+$_['text_special'] = 'Спеціальні'; #45939
+$_['text_account'] = 'Обліковий запис'; #45926
+$_['text_order'] = 'Історія замовлень'; #45933
+$_['text_wishlist'] = 'Список бажаних товарів'; #45934
+$_['text_newsletter'] = 'Розсилання новин'; #45935
+$_['text_powered'] = 'Працює на <a href="http://github.com/opencart-ukraine">OpenCart</a><br /> %s &copy; %s'; #45936

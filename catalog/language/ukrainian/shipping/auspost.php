@@ -1,8 +1,8 @@
 <?php
 /***********************************************************************************************************************
 
-Version 1.5.5.1
-Created 19:13 20.05.2013 UTF-8
+Version 1.5.6
+Created 23:02 15.01.2014 UTF-8
 Copyright (C) 2010 Ukrainian Localization by OpenCart Ukrainian Team (http://github.com/opencart-ukraine). All rights reserved.
 
 Responsible for Translation:
@@ -13,7 +13,7 @@ Ask a question http://github.com/opencart-ukraine
 
 ************************************************************************************************************************/
 
-$_['text_title'] = 'Австралійська пошта'; #43438
-$_['text_express'] = 'Експрес'; #43439
-$_['text_standard'] = 'Стандарт'; #43440
-$_['text_eta'] = 'днів'; #43441
+$_['text_title'] = 'Австралійська пошта'; #47713
+$_['text_express'] = 'Експрес'; #47714
+$_['text_standard'] = 'Стандарт'; #47715
+$_['text_eta'] = 'днів'; #47716

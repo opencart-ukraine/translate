@@ -1,8 +1,8 @@
 <?php
 /***********************************************************************************************************************
 
-Version 1.5.5.1
-Created 19:13 20.05.2013 UTF-8
+Version 1.5.6
+Created 23:02 15.01.2014 UTF-8
 Copyright (C) 2010 Ukrainian Localization by OpenCart Ukrainian Team (http://github.com/opencart-ukraine). All rights reserved.
 
 Translators:
@@ -17,14 +17,14 @@ Ask a question http://github.com/opencart-ukraine
 
 ************************************************************************************************************************/
 
-$_['heading_title'] = 'Філіал'; #41612
-$_['text_register'] = 'Реєстрація'; #41613
-$_['text_login'] = 'Вхід'; #41614
-$_['text_logout'] = 'Вихід'; #41615
-$_['text_forgotten'] = 'Нагадати пароль'; #41616
-$_['text_account'] = 'Обліковий запис'; #41617
-$_['text_edit'] = 'Редагувати обліковий запис'; #41618
-$_['text_password'] = 'Пароль'; #41619
-$_['text_payment'] = 'Налаштування оплати'; #41620
-$_['text_tracking'] = 'Моніторинг філіалу'; #41621
-$_['text_transaction'] = 'Транзакції'; #41622
+$_['heading_title'] = 'Філіал'; #45887
+$_['text_register'] = 'Реєстрація'; #45888
+$_['text_login'] = 'Вхід'; #45889
+$_['text_logout'] = 'Вихід'; #45890
+$_['text_forgotten'] = 'Нагадати пароль'; #45891
+$_['text_account'] = 'Обліковий запис'; #45892
+$_['text_edit'] = 'Редагувати обліковий запис'; #45893
+$_['text_password'] = 'Пароль'; #45894
+$_['text_payment'] = 'Налаштування оплати'; #45895
+$_['text_tracking'] = 'Моніторинг філіалу'; #45896
+$_['text_transaction'] = 'Транзакції'; #45897
