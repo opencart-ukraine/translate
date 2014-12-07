@@ -1,27 +1,21 @@
 <?php
-/***********************************************************************************************************************
 
-Version 1.5.6
-Created 23:02 15.01.2014 UTF-8
-Copyright (C) 2010 Ukrainian Localization by OpenCart Ukrainian Team (http://github.com/opencart-ukraine). All rights reserved.
+//version 2.0.0.0
+//Made by Sirchyk for www.marketplus.if.ua on 16 of october 2014.
+//info@marketplus.if.ua
 
-Translators:
- Eugene Kuligin (http://github.com/shaman)
- and others.
+// Heading
+$_['heading_title']   = 'Забули пароль?';
 
-Responsible for Translation:
- Eugene Kuligin (http://github.com/shaman)
+// Text
+$_['text_account']    = 'Профіль';
+$_['text_forgotten']  = 'Забули пароль';
+$_['text_your_email'] = 'Ваш E-Mail';
+$_['text_email']      = 'Введіть e-mail який Ви вказували при реєстрації. Натисніть підтвердити і новий пароль прийде на Ваш e-mail.';
+$_['text_success']    = 'Новий пароль відпрвлено на Ваш e-mail.';
 
-License http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL
-Ask a question http://github.com/opencart-ukraine
+// Entry
+$_['entry_email']     = 'E-Mail';
 
-************************************************************************************************************************/
-
-$_['heading_title'] = 'Нагадати пароль'; #46099
-$_['text_account'] = 'Обліковий запис'; #46100
-$_['text_forgotten'] = 'Нагадати пароль'; #46101
-$_['text_your_email'] = 'Ваш e-mail:'; #46102
-$_['text_email'] = 'Введіть адресу e-mail, пов’язану з вашим обліковим записом та натисніть кнопку підтвердження.'; #46792
-$_['text_success'] = 'Новий пароль відправлено на вашу адресу електронної пошти.'; #46350
-$_['entry_email'] = 'Адреса e-mail:'; #46103
-$_['error_email'] = 'Вказану адресу e-mail не було знайдено в базі даних. Будь ласка, спробуйте ще раз!'; #46793
+// Error
+$_['error_email']     = 'E-Mail не знайдено в базі, спробуйте ще раз!';

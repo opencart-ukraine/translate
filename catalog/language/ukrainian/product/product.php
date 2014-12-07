@@ -1,72 +1,57 @@
 <?php
-/***********************************************************************************************************************
 
-Version 1.5.6
-Created 23:02 15.01.2014 UTF-8
-Copyright (C) 2010 Ukrainian Localization by OpenCart Ukrainian Team (http://github.com/opencart-ukraine). All rights reserved.
+//version 2.0.0.0
+//Made by Sirchyk for www.marketplus.if.ua on 16 of october 2014.
+//info@marketplus.if.ua
 
-Translators:
- Aleksandr Rebrov (http://webplaneta.com.ua)
- Eugene Kuligin (http://github.com/shaman)
- and others.
+// Text
+$_['text_search']                             = 'Пошук';
+$_['text_brand']                              = 'Бренд';
+$_['text_manufacturer']                       = 'Виробник:';
+$_['text_model']                              = 'Артикул:';
+$_['text_reward']                             = 'Бонусні бали:';
+$_['text_points']                             = 'Ціна в бонусних балах:';
+$_['text_stock']                              = 'Наявність:';
+$_['text_instock']                            = 'В наявності';
+$_['text_tax']                                = 'Без ПДВ:';
+$_['text_discount']                           = ' чи більше ';
+$_['text_option']                             = 'Доступні опції';
+$_['text_minimum']                            = 'Мінімальне замовлення цього товару %s';
+$_['text_reviews']                            = '%s оглядів';
+$_['text_write']                              = 'Написати огляд';
+$_['text_login']                              = 'Будь-ласка <a  href="%s">ввійдіть</a> чи <a href="%s">зареєструйтеся</a> для написання огляду';
+$_['text_no_reviews']                         = 'В цього товару немає оглядів.';
+$_['text_note']                               = '<span class="text-danger">Зверніть увагу:</span> HTML не перекладено!';
+$_['text_success']                            = 'Дякуємо з Ваш огляд. Він направлений для затвердження модератору.';
+$_['text_related']                            = 'Схожі товари';
+$_['text_tags']                               = 'Теги:';
+$_['text_error']                              = 'Товар не знайдено!';
+$_['text_payment_recurring']                    = 'Профілі оплати';
+$_['text_trial_description']                  = '%s кожен %d %s(s) до %d платежу(ів) тоді';
+$_['text_payment_description']                = '%s кожен %d %s(s) до %d патежу(ів)';
+$_['text_payment_until_canceled_description'] = '%s кожен %d %s(s) поки не скасовано';
+$_['text_day']                                = 'день';
+$_['text_week']                               = 'тиждень';
+$_['text_semi_month']                         = 'половина місяця';
+$_['text_month']                              = 'місяць';
+$_['text_year']                               = 'рік';
 
-Responsible for Translation:
- Eugene Kuligin (http://github.com/shaman)
+// Entry
+$_['entry_qty']                               = 'Кількість';
+$_['entry_name']                              = 'Ваше Ім`я';
+$_['entry_review']                            = 'Ваш огляд';
+$_['entry_rating']                            = 'Рейтинг';
+$_['entry_good']                              = 'Хороший';
+$_['entry_bad']                               = 'Поганий';
+$_['entry_captcha']                           = 'Введіть код з зображення в поле';
 
-License http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL
-Ask a question http://github.com/opencart-ukraine
+// Tabs
+$_['tab_description']                         = 'Опис';
+$_['tab_attribute']                           = 'Специфікація';
+$_['tab_review']                              = 'Огляди (%s)';
 
-************************************************************************************************************************/
-
-$_['text_search'] = 'Пошук'; #46828
-$_['text_brand'] = 'Бренд'; #46829
-$_['text_manufacturer'] = 'Виробник'; #43957
-$_['text_model'] = 'Модель:'; #43956
-$_['text_reward'] = 'Бонусні бали:'; #46372
-$_['text_points'] = 'Ціна в балах:'; #46751
-$_['text_stock'] = 'Наявність:'; #45819
-$_['text_instock'] = 'На складі'; #44421
-$_['text_price'] = 'Ціна'; #43955
-$_['text_tax'] = 'Податок на обмін:'; #46752
-$_['text_discount'] = '%s чи більше %s'; #47830
-$_['text_option'] = 'Наявні опції'; #45820
-$_['text_qty'] = 'Кількість:'; #43960
-$_['text_minimum'] = 'Мінімальна кількість товарів, яку можна замовити становить %s'; #46174
-$_['text_or'] = '- АБО -'; #45828
-$_['text_reviews'] = 'Базовано на %s відгуках.'; #45821
-$_['text_write'] = 'Написати відгук'; #43958
-$_['text_no_reviews'] = 'Відгуки для даного товару відсутні'; #43959
-$_['text_on'] = 'про'; #47611
-$_['text_note'] = '<span style="color:red">Примітка:</span>HTML теги не дозволені! Використовуйте звичайний текст.'; #44462
-$_['text_share'] = 'Поділитись'; #45822
-$_['text_success'] = 'Дякуємо за відгук! Після підтвердження адміністратором він з’явиться на сайті.'; #44461
-$_['text_upload'] = 'Ваш файл успішно завантажено!'; #45823
-$_['text_wait'] = 'Зачекайте, будь ласка!'; #44422
-$_['text_tags'] = 'Теги'; #43961
-$_['text_error'] = 'Товар не знайдено!'; #44420
-$_['text_payment_profile'] = 'Платіжний профіль'; #48469
-$_['text_trial_description'] = '%s кожен %d %s(s) для %d платежу(ів) тоді'; #48470
-$_['text_payment_description'] = '%s кожен %d %s(s) для %d платежу(ів)'; #48471
-$_['text_payment_until_canceled_description'] = '%s кожен %d %s(s) поки не буде завершено'; #48472
-$_['text_day'] = 'день'; #48393
-$_['text_week'] = 'тиждень'; #48394
-$_['text_semi_month'] = 'два тижні'; #48397
-$_['text_month'] = 'місяць'; #48395
-$_['text_year'] = 'рік'; #48396
-$_['entry_name'] = 'Ваше Ім’я:'; #44423
-$_['entry_review'] = 'Ваш відгук:'; #44424
-$_['entry_rating'] = 'Рейтинг'; #43962
-$_['entry_good'] = 'Добре'; #43963
-$_['entry_bad'] = 'Погано'; #43964
-$_['entry_captcha'] = 'Введіть код, вказаний на зображенні:'; #43965
-$_['tab_description'] = 'Опис'; #43966
-$_['tab_attribute'] = 'Специфікація'; #45824
-$_['tab_review'] = 'Відгуки (%s)'; #44425
-$_['tab_related'] = 'Рекомендуємо'; #43967
-$_['error_name'] = 'Назва відгуку повинна містити від 3 до 25 символів!'; #44426
-$_['error_text'] = 'Текст відгуку повинен містити від 3 до 25 символів!'; #44427
-$_['error_rating'] = 'Будь ласка, оберіть рейтинг відгуку!'; #44428
-$_['error_captcha'] = 'Код перевірки не співпадає із вказаним на зображенні!'; #44429
-$_['error_upload'] = 'Необхідно завантажити файл!'; #45825
-$_['error_filename'] = 'Назва файлу повинна містити від 3 до 128 символів!'; #45826
-$_['error_filetype'] = 'Неправильний тип файлу!'; #45827
+// Error
+$_['error_name']                              = 'Назва огляду повинна містити від 3 до 25 символів!';
+$_['error_text']                              = 'Текст огляду повинен містити від 25 до 1000 символів!';
+$_['error_rating']                            = 'Оберіть ретинг огляду!';
+$_['error_captcha']                           = 'Код підтвердження не співпадає з зображенням!';

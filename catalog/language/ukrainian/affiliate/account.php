@@ -1,29 +1,19 @@
 <?php
-/***********************************************************************************************************************
 
-Version 1.5.6
-Created 23:02 15.01.2014 UTF-8
-Copyright (C) 2010 Ukrainian Localization by OpenCart Ukrainian Team (http://github.com/opencart-ukraine). All rights reserved.
+//version 2.0.0.0
+//Made by Sirchyk for www.marketplus.if.ua on 16 of october 2014.
+//info@marketplus.if.ua
 
-Translators:
- Eugene Kuligin (http://github.com/shaman)
- and others.
+// Heading
+$_['heading_title']        = 'Мій профіль партнерської програми';
 
-Responsible for Translation:
- Eugene Kuligin (http://github.com/shaman)
-
-License http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL
-Ask a question http://github.com/opencart-ukraine
-
-************************************************************************************************************************/
-
-$_['heading_title'] = 'Моя партнерська програма'; #46780
-$_['text_account'] = 'Обліковий запис'; #46093
-$_['text_my_account'] = 'Мій партнерський аккаунт'; #46242
-$_['text_my_tracking'] = 'Мої відстеження'; #46781
-$_['text_my_transactions'] = 'Мої транзакції'; #46094
-$_['text_edit'] = 'Змінити ваш обліковий запис'; #46095
-$_['text_password'] = 'Змінити ваш пароль'; #46096
-$_['text_payment'] = 'Змінити ваші налаштування оплати'; #46097
-$_['text_tracking'] = 'Партнерський код'; #46243
-$_['text_transaction'] = 'Переглянути історію ваших транзакцій'; #46098
+// Text
+$_['text_account']         = 'Профіль';
+$_['text_my_account']      = 'Мій профіль партнерської програми';
+$_['text_my_tracking']     = 'Моя інформація для відслідковування';
+$_['text_my_transactions'] = 'Мої платежі';
+$_['text_edit']            = 'Змінити інформацію профілю';
+$_['text_password']        = 'Змінити пароль';
+$_['text_payment']         = 'Змінити платіжні преференції';
+$_['text_tracking']        = 'Окремий партнерський код відслідковування';
+$_['text_transaction']     = 'Переглянути історію платежів';

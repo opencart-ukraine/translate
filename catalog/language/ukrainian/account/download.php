@@ -1,30 +1,19 @@
 <?php
-/***********************************************************************************************************************
 
-Version 1.5.6
-Created 23:02 15.01.2014 UTF-8
-Copyright (C) 2010 Ukrainian Localization by OpenCart Ukrainian Team (http://github.com/opencart-ukraine). All rights reserved.
+//version 2.0.0.0
+//Made by Sirchyk for www.marketplus.if.ua on 16 of october 2014.
+//info@marketplus.if.ua
 
-Translators:
- Aleksandr Rebrov (http://webplaneta.com.ua)
- Eugene Kuligin (http://github.com/shaman)
- and others.
+// Heading
+$_['heading_title']     = 'Профіль завантажень';
 
-Responsible for Translation:
- Eugene Kuligin (http://github.com/shaman)
+// Text
+$_['text_account']      = 'Профіль';
+$_['text_downloads']    = 'Завантаження';
+$_['text_empty']        = 'У вас немає замовлень, які можна завантажити!';
 
-License http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL
-Ask a question http://github.com/opencart-ukraine
-
-************************************************************************************************************************/
-
-$_['heading_title'] = 'Завантаження з облікового запису'; #44258
-$_['text_account'] = 'Обліковий запис'; #44259
-$_['text_downloads'] = 'Завантаження'; #44220
-$_['text_order'] = 'ID замовлення:'; #52080
-$_['text_order'] = 'Номер замовлення:'; #44221
-$_['text_date_added'] = 'Додано:'; #44222
-$_['text_name'] = 'Назва:'; #44223
-$_['text_remaining'] = 'Залишилося:'; #44224
-$_['text_size'] = 'Розмір:'; #44225
-$_['text_empty'] = 'Ви не зробили жодних замовлень файлів!'; #46386
+// Column
+$_['column_order_id']   = 'Номер замовлення';
+$_['column_name']       = 'Назва';
+$_['column_size']       = 'Розмір';
+$_['column_date_added'] = 'Дата додавання';

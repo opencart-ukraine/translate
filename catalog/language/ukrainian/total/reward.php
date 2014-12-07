@@ -1,21 +1,9 @@
 <?php
-/***********************************************************************************************************************
 
-Version 1.5.6
-Created 23:02 15.01.2014 UTF-8
-Copyright (C) 2010 Ukrainian Localization by OpenCart Ukrainian Team (http://github.com/opencart-ukraine). All rights reserved.
+//version 2.0.0.0
+//Made by Sirchyk for www.marketplus.if.ua on 16 of october 2014.
+//info@marketplus.if.ua
 
-Translators:
- Eugene Kuligin (http://github.com/shaman)
- and others.
-
-Responsible for Translation:
- Eugene Kuligin (http://github.com/shaman)
-
-License http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL
-Ask a question http://github.com/opencart-ukraine
-
-************************************************************************************************************************/
-
-$_['text_reward'] = 'Бали (%s)'; #44116
-$_['text_order_id'] = 'Номер замовлення: %s'; #45948
+// Text
+$_['text_reward']   = 'Бонусні бали (%s)';
+$_['text_order_id'] = 'Номер замовлення: #%s';

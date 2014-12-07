@@ -1,27 +1,19 @@
 <?php
-/***********************************************************************************************************************
 
-Version 1.5.6
-Created 23:02 15.01.2014 UTF-8
-Copyright (C) 2010 Ukrainian Localization by OpenCart Ukrainian Team (http://github.com/opencart-ukraine). All rights reserved.
+//version 2.0.0.0
+//Made by Sirchyk for www.marketplus.if.ua on 16 of october 2014.
+//info@marketplus.if.ua
 
-Translators:
- Eugene Kuligin (http://github.com/shaman)
- and others.
+// Heading
+$_['heading_title']      = 'Ваші виплати';
 
-Responsible for Translation:
- Eugene Kuligin (http://github.com/shaman)
+// Column
+$_['column_date_added']  = 'Дата додавання';
+$_['column_description'] = 'Опис';
+$_['column_amount']      = 'Сума (%s)';
 
-License http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL
-Ask a question http://github.com/opencart-ukraine
-
-************************************************************************************************************************/
-
-$_['heading_title'] = 'Ваші транзакції'; #46013
-$_['column_date_added'] = 'Дата долучення'; #46014
-$_['column_description'] = 'Опис'; #46015
-$_['column_amount'] = 'Кількість (%s)'; #46016
-$_['text_account'] = 'Обліковий запис'; #46017
-$_['text_transaction'] = 'Ваші транзакції'; #46018
-$_['text_balance'] = 'Ваш поточний баланс становить:'; #46019
-$_['text_empty'] = 'Ви не маєте жодних транзакцій!'; #46020
+// Text
+$_['text_account']       = 'Профіль';
+$_['text_transaction']   = 'Ваші виплати';
+$_['text_balance']       = 'Ваш поточний баланс становить:';
+$_['text_empty']         = 'У Вас немає виплат!';

@@ -1,24 +1,26 @@
 <?php
-/***********************************************************************************************************************
 
-Version 1.5.6
-Created 23:02 15.01.2014 UTF-8
-Copyright (C) 2010 Ukrainian Localization by OpenCart Ukrainian Team (http://github.com/opencart-ukraine). All rights reserved.
+//version 2.0.0.0
+//Made by Sirchyk for www.marketplus.if.ua on 16 of october 2014.
+//info@marketplus.if.ua
 
-Translators:
- Eugene Kuligin (http://github.com/shaman)
- and others.
-
-Responsible for Translation:
- Eugene Kuligin (http://github.com/shaman)
-
-License http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL
-Ask a question http://github.com/opencart-ukraine
-
-************************************************************************************************************************/
-
-$_['text_subject'] = 'Партнерська програма %s'; #46831
-$_['text_welcome'] = 'Дякуємо за долучення до партнерської програми %s!'; #46832
-$_['text_approval'] = 'Ваш обліковий запис буде перевірено перед тим, як ви зможете увійти. Після схвалення облікового запису ви зможете увійти, використовуючи e-mail та пароль за адресою:'; #46833
-$_['text_services'] = 'Після входу ви зможете створити код відстеження, відслідковувати надходження партнерської винагороди та змінювати інформацію про обліковий запис.'; #46834
-$_['text_thanks'] = 'Дякуємо,'; #46835
+// Text
+$_['text_subject']		        = '%s - Партнерська програма';
+$_['text_welcome']		        = 'Дякуємо за реєстрацію в %s партнерській програмі!';
+$_['text_login']                = 'Ваш профіль створено і тепер Ви можете увійти використавши Ваш e-mail і пароль на нашому сайті або за наступним посиланням:';
+$_['text_approval']		        = 'Ваш профіль має бути підтвержено до того як Ви зможете увійти. Після підтвердження Ви змокжете увійти використавши Ваш e-mail і пароль відвідавши наш сайт або за наступним посиланням:';
+$_['text_services']		        = 'Після входу Ви зможете створювати коди відслідковування, відслідковувати комісійні платежі й змінювати інформацію Вашого профілю.';
+$_['text_thanks']		        = 'Дякуємо,';
+$_['text_new_affiliate']        = 'Новий партнер';
+$_['text_signup']		        = 'Новий партнер увійшов:';
+$_['text_store']		        = 'Машазин:';
+$_['text_firstname']	        = 'Ім`я:';
+$_['text_lastname']		        = 'Прізвище:';
+$_['text_company']		        = 'Компанія:';
+$_['text_email']		        = 'E-Mail:';
+$_['text_telephone']	        = 'Телефон:';
+$_['text_website']		        = 'Сайт:';
+$_['text_order_id']             = 'Номер замовлення:';
+$_['text_transaction_subject']  = '%s - Партнерська комісія';
+$_['text_transaction_received'] = 'Ви отримали %s комісії!';
+$_['text_transaction_total']    = 'Загальна сума Ваших комісійних платежів становить %s.';

@@ -1,49 +1,42 @@
 <?php
-/***********************************************************************************************************************
 
-Version 1.5.6
-Created 23:02 15.01.2014 UTF-8
-Copyright (C) 2010 Ukrainian Localization by OpenCart Ukrainian Team (http://github.com/opencart-ukraine). All rights reserved.
+//version 2.0.0.0
+//Made by Sirchyk for www.marketplus.if.ua on 16 of october 2014.
+//info@marketplus.if.ua
 
-Translators:
- Eugene Kuligin (http://github.com/shaman)
- Larisa Bodnar (http://barbaryska.tumblr.com)
- and others.
+// Heading
+$_['heading_title']        = 'Адресна книга';
 
-Responsible for Translation:
- Eugene Kuligin (http://github.com/shaman)
+// Text
+$_['text_account']         = 'Профіль';
+$_['text_address_book']    = 'Адреси';
+$_['text_edit_address']    = 'Змінити адреси';
+$_['text_add']             = 'Вашу адресу успішно вставлено';
+$_['text_edit']            = 'Вашу адресу успішно оновлено';
+$_['text_delete']          = 'Вашу адресу успішно видалено';
+$_['text_empty']           = 'У вашому профілі немає адрес.';
 
-License http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL
-Ask a question http://github.com/opencart-ukraine
+// Entry
+$_['entry_firstname']      = 'Імя';
+$_['entry_lastname']       = 'Прізвище';
+$_['entry_company']        = 'Компанія';
+$_['entry_address_1']      = 'Адреса 1';
+$_['entry_address_2']      = 'Адреса 2';
+$_['entry_postcode']       = 'Індекс';
+$_['entry_city']           = 'Місто';
+$_['entry_country']        = 'Країна';
+$_['entry_zone']           = 'Область/Район';
+$_['entry_default']        = 'Адреса за замовчуванням';
 
-************************************************************************************************************************/
-
-$_['heading_title'] = 'Адресна книга'; #44178
-$_['text_account'] = 'Обліковий запис'; #44179
-$_['text_address_book'] = 'Записи адресної книги'; #44180
-$_['text_edit_address'] = 'Редагувати адресу'; #44181
-$_['text_insert'] = 'Вашу адресу було успішно додано'; #44182
-$_['text_update'] = 'Вашу адресу було успішно оновлено'; #44183
-$_['text_delete'] = 'Вашу адресу було успішно видалено'; #44184
-$_['entry_firstname'] = 'Ім’я:'; #44185
-$_['entry_lastname'] = 'Прізвище:'; #44186
-$_['entry_company'] = 'Компанія:'; #44187
-$_['entry_company_id'] = 'Код компанії:'; #47639
-$_['entry_tax_id'] = 'ІПН:'; #47584
-$_['entry_address_1'] = 'Адреса 1:'; #44188
-$_['entry_address_2'] = 'Адреса 2:'; #44189
-$_['entry_postcode'] = 'Поштовий індекс:'; #44190
-$_['entry_city'] = 'Місто:'; #44191
-$_['entry_country'] = 'Країна:'; #44192
-$_['entry_zone'] = 'Регіон / область:'; #44193
-$_['entry_default'] = 'Адреса за замовчуванням:'; #44194
-$_['error_delete'] = 'Помилка: треба ввести принаймні одну адресу!'; #44195
-$_['error_default'] = 'Помилка: ви не можете видалити вашу адресу за замовчуванням!'; #44196
-$_['error_firstname'] = 'Ім’я повинно містити від 1 до 32 симлоів!'; #44197
-$_['error_lastname'] = 'Прізвище повинно містити від 1 до 32 симлоів!'; #44198
-$_['error_vat'] = 'Код платника ПДВ введено не коректно!'; #47585
-$_['error_address_1'] = 'Адреса повинна містити від 1 до 32 симлоів!'; #44199
-$_['error_postcode'] = 'Поштовий індекс понен містити від 2 до 10 символів для цієї країни!'; #44201
-$_['error_city'] = 'Місто повинно містити від 1 до 32 симлоів!'; #44200
-$_['error_country'] = 'Будь ласка, оберіть країну!'; #44202
-$_['error_zone'] = 'Будь ласка, оберіть регіон / область!'; #44203
+// Error
+$_['error_delete']         = 'Ви повинні вказати хоча б одну адресу!';
+$_['error_default']        = 'Ви не можете видалити адресу за замовчуванням!';
+$_['error_firstname']      = 'Імя повинно містити від 1 до 32 символів!';
+$_['error_lastname']       = 'Прізвище повинно містити від 1 до 32 символів!';
+$_['error_vat']            = 'Неправильний номер платника ПДВ!';
+$_['error_address_1']      = 'Адреса повинна містити від 3 до 128 символів!';
+$_['error_postcode']       = 'Поштовий індекс повинен містити від 2 до 10 символів!';
+$_['error_city']           = 'Назва міста повинна містити від 2 до 128 символів!';
+$_['error_country']        = 'Будь-ласка оберіть країну!';
+$_['error_zone']           = 'Будь-ласка оберіть район/область!';
+$_['error_custom_field']   = '%s необхідно!';

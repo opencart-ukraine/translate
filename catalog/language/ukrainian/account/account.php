@@ -1,37 +1,26 @@
 <?php
-/***********************************************************************************************************************
 
-Version 1.5.6
-Created 23:02 15.01.2014 UTF-8
-Copyright (C) 2010 Ukrainian Localization by OpenCart Ukrainian Team (http://github.com/opencart-ukraine). All rights reserved.
+//version 2.0.0.0
+//Made by Sirchyk for www.marketplus.if.ua on 16 of october 2014.
+//info@marketplus.if.ua
 
-Translators:
- Eugene Kuligin (http://github.com/shaman)
- Larisa Bodnar (http://barbaryska.tumblr.com)
- and others.
+// Heading
+$_['heading_title']      = 'Мій профіль';
 
-Responsible for Translation:
- Eugene Kuligin (http://github.com/shaman)
-
-License http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL
-Ask a question http://github.com/opencart-ukraine
-
-************************************************************************************************************************/
-
-$_['heading_title'] = 'Мій обліковий запис'; #44044
-$_['text_account'] = 'Обліковий запис'; #44045
-$_['text_my_account'] = 'Обліковий запис'; #44046
-$_['text_my_orders'] = 'Замовлення'; #44047
-$_['text_my_newsletter'] = 'Розсилання новин'; #44048
-$_['text_edit'] = 'Редагувати інформацію облікового запису'; #45905
-$_['text_password'] = 'Змінити пароль'; #44175
-$_['text_address'] = 'Змінити записи адресної книги'; #44176
-$_['text_wishlist'] = 'Редагувати список бажаних товарів'; #45906
-$_['text_order'] = 'Переглянути історію замовлень'; #45907
-$_['text_download'] = 'Завантаження'; #44049
-$_['text_reward'] = 'Бонусні бали'; #46374
-$_['text_return'] = 'Переглянути запити на повернення'; #45908
-$_['text_transaction'] = 'Транзакції'; #45909
-$_['text_newsletter'] = 'Підписатись / не підписуватись на розсилання новин'; #44177
-$_['text_recurring'] = 'Регулярні платежі '; #48042
-$_['text_transactions'] = 'Транзакції'; #48412
+// Text
+$_['text_account']       = 'Профіль';
+$_['text_my_account']    = 'Мій профіль';
+$_['text_my_orders']     = 'Мої замовлення';
+$_['text_my_newsletter'] = 'Новини';
+$_['text_edit']          = 'Змінити Ваш профіль';
+$_['text_password']      = 'Змінити Ваш пароль';
+$_['text_address']       = 'Змінити адреси у Вашій адресній книзі';
+$_['text_wishlist']      = 'Змінити Ваш список бажань';
+$_['text_order']         = 'Переглянути історію замовлень';
+$_['text_download']      = 'Завантаження';
+$_['text_reward']        = 'Ваші бонусні бали';
+$_['text_return']        = 'Переглянути Ваші запити на поверення';
+$_['text_transaction']   = 'Ваші платежі';
+$_['text_newsletter']    = 'Підписатися/відписатися на новини';
+$_['text_recurring']     = 'Повторювані платежі';
+$_['text_transactions']  = 'Платежі';

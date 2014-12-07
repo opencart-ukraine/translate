@@ -1,33 +1,26 @@
 <?php
-/***********************************************************************************************************************
 
-Version 1.5.6
-Created 23:02 15.01.2014 UTF-8
-Copyright (C) 2010 Ukrainian Localization by OpenCart Ukrainian Team (http://github.com/opencart-ukraine). All rights reserved.
+//version 2.0.0.0
+//Made by Sirchyk for www.marketplus.if.ua on 16 of october 2014.
+//info@marketplus.if.ua
 
-Translators:
- Eugene Kuligin (http://github.com/shaman)
- and others.
+// Heading
+$_['heading_title'] = 'Мій список бажань';
 
-Responsible for Translation:
- Eugene Kuligin (http://github.com/shaman)
+// Text
+$_['text_account']  = 'Профіль';
+$_['text_instock']  = 'В наявності';
+$_['text_wishlist'] = 'Список бажань (%s)';
+$_['text_login']    = 'Ви мусите <a href="%s">зайти</a> чи <a href="%s">створити профіль</a> для збереження <a href="%s">%s</a> вашого <a href="%s">списку бажань</a>!';
+$_['text_success']  = 'Ви успішно додали <a href="%s">%s</a> до Вашого <a href="%s">списку бажань</a>!';
+$_['text_exists']   = '<a href="%s">%s</a> вже додано до вашаго <a href="%s">списку бажань</a>!';
+$_['text_remove']   = 'Ви успішно змінили список бажань!';
+$_['text_empty']    = 'Ваш список бажать порожній.';
 
-License http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL
-Ask a question http://github.com/opencart-ukraine
-
-************************************************************************************************************************/
-
-$_['heading_title'] = 'Список бажаних товарів'; #46766
-$_['text_account'] = 'Обліковий запис'; #46286
-$_['text_instock'] = 'На складі'; #46287
-$_['text_wishlist'] = 'Бажані товари (%s)'; #46289
-$_['text_login'] = 'Ви повинні <a href="%s">увійти</a> або <a href="%s">створити обліковий запис</a> для збереження <a href="%s">%s</a> вашого <a href="%s"> списку бажаних товарів</a>!'; #46290
-$_['text_success'] = 'Товар <a href="%s">%s</a> було успішно додано до <a href="%s">списку бажаних товарів</a>!'; #46288
-$_['text_remove'] = 'Список бажаних товарів успішно оновлено!'; #47393
-$_['text_empty'] = 'Список бажаних товарів порожній'; #46291
-$_['column_image'] = 'Зображення'; #46292
-$_['column_name'] = 'Назва товару'; #46293
-$_['column_model'] = 'Модель'; #46379
-$_['column_stock'] = 'Запас'; #46767
-$_['column_price'] = 'Ціна за одиницю'; #46294
-$_['column_action'] = 'Дія'; #47394
+// Column
+$_['column_image']  = 'Зображення';
+$_['column_name']   = 'Назва товару';
+$_['column_model']  = 'Модель';
+$_['column_stock']  = 'Наявність';
+$_['column_price']  = 'Ціна за одиницю';
+$_['column_action'] = 'Дія';

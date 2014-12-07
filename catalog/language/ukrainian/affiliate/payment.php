@@ -1,37 +1,29 @@
 <?php
-/***********************************************************************************************************************
 
-Version 1.5.6
-Created 23:02 15.01.2014 UTF-8
-Copyright (C) 2010 Ukrainian Localization by OpenCart Ukrainian Team (http://github.com/opencart-ukraine). All rights reserved.
+//version 2.0.0.0
+//Made by Sirchyk for www.marketplus.if.ua on 16 of october 2014.
+//info@marketplus.if.ua
 
-Translators:
- Eugene Kuligin (http://github.com/shaman)
- and others.
+// Heading
+$_['heading_title']             = 'Метод оплати';
 
-Responsible for Translation:
- Eugene Kuligin (http://github.com/shaman)
+// Text
+$_['text_account']              = 'Профіль';
+$_['text_payment']              = 'Платіж';
+$_['text_your_payment']         = 'Інформація про оплату';
+$_['text_your_password']        = 'Пароль';
+$_['text_cheque']               = 'Чек';
+$_['text_paypal']               = 'PayPal';
+$_['text_bank']                 = 'Банківський переказ';
+$_['text_success']              = 'Ваш профіль успішно змінено.';
 
-License http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL
-Ask a question http://github.com/opencart-ukraine
-
-************************************************************************************************************************/
-
-$_['heading_title'] = 'Спосіб оплати'; #46251
-$_['text_account'] = 'Рахунок'; #46252
-$_['text_payment'] = 'Оплата'; #46253
-$_['text_your_payment'] = 'Інформація про оплату'; #46254
-$_['text_your_password'] = 'Ваш пароль'; #46255
-$_['text_cheque'] = 'Чек'; #46256
-$_['text_paypal'] = 'PayPal'; #46257
-$_['text_bank'] = 'Банківський переказ'; #46258
-$_['text_success'] = 'Ваш обліковий запис було успішно оновлено.'; #46352
-$_['entry_tax'] = 'Податковий номер:'; #46799
-$_['entry_payment'] = 'Спосіб оплати:'; #46259
-$_['entry_cheque'] = 'Чек на ім’я:'; #46800
-$_['entry_paypal'] = 'Адреса e-mail, яка використовується в обліковому записі PayPal:'; #46801
-$_['entry_bank_name'] = 'Найменування банку:'; #46260
-$_['entry_bank_branch_number'] = 'ABA / BSB номер (номер відділення):'; #46353
-$_['entry_bank_swift_code'] = 'SWIFT-код:'; #46261
-$_['entry_bank_account_name'] = 'Ім’я облікового запису:'; #46262
-$_['entry_bank_account_number'] = 'Номер рахунку:'; #46263
+// Entry
+$_['entry_tax']                 = 'ІПН';
+$_['entry_payment']             = 'Метод оплати';
+$_['entry_cheque']              = 'Імя платника по чеку';
+$_['entry_paypal']              = 'PayPal Email';
+$_['entry_bank_name']           = 'Назва банку';
+$_['entry_bank_branch_number']  = 'Номер ABA/BSB(Branch Number)';
+$_['entry_bank_swift_code']     = 'Код SWIFT';
+$_['entry_bank_account_name']   = 'Назва банківського рахунку';
+$_['entry_bank_account_number'] = 'Номер банківського рахунку';

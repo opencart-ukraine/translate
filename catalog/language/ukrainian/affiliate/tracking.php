@@ -1,25 +1,20 @@
 <?php
-/***********************************************************************************************************************
 
-Version 1.5.6
-Created 23:02 15.01.2014 UTF-8
-Copyright (C) 2010 Ukrainian Localization by OpenCart Ukrainian Team (http://github.com/opencart-ukraine). All rights reserved.
+//version 2.0.0.0
+//Made by Sirchyk for www.marketplus.if.ua on 16 of october 2014.
+//info@marketplus.if.ua
 
-Translators:
- Eugene Kuligin (http://github.com/shaman)
- and others.
+// Heading
+$_['heading_title']    = 'Відслідковування партнерської програми';
 
-Responsible for Translation:
- Eugene Kuligin (http://github.com/shaman)
+// Text
+$_['text_account']     = 'Профіль';
+$_['text_description'] = 'Для отримання виплат за рефералів, яких Ви відправили до нас, ви мусите додавати код відслідковування в адресу нашої web-сторінки. Тоді ми будемо точно знати що саме цього клієнта Ви направили на наш сайт. Ви можете використати наступні інструменти для генерування посилань на %s сайт.';
 
-License http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL
-Ask a question http://github.com/opencart-ukraine
+// Entry
+$_['entry_code']       = 'Ваш код відслідковування';
+$_['entry_generator']  = 'Генератор посилань для партнерської програми';
+$_['entry_link']       = 'Посилання з відслідковуванням';
 
-************************************************************************************************************************/
-
-$_['heading_title'] = 'Відстеження партнерської програми'; #46795
-$_['text_account'] = 'Обліковий запис'; #46021
-$_['text_description'] = 'Щоб ідентифікувати вас в партнерській програмі, необхідно додати до посилання унікальний код. Для цього використовуйте надані нижче інструменти.'; #46796
-$_['text_code'] = '<b>Код відстеження:</b>'; #46022
-$_['text_generator'] = '<b>Генерація посилання</b><br />Вкажіть товар для створення посилання:'; #46797
-$_['text_link'] = '<b>Посилання для відстеження:</b>'; #46023
+// Help
+$_['help_generator']  = 'Введіть назву товару на який Ви хочете створити посилання';

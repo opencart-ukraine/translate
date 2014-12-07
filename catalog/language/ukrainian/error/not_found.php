@@ -1,21 +1,11 @@
 <?php
-/***********************************************************************************************************************
 
-Version 1.5.6
-Created 23:02 15.01.2014 UTF-8
-Copyright (C) 2010 Ukrainian Localization by OpenCart Ukrainian Team (http://github.com/opencart-ukraine). All rights reserved.
+//version 2.0.0.0
+//Made by Sirchyk for www.marketplus.if.ua on 16 of october 2014.
+//info@marketplus.if.ua
 
-Translators:
- Eugene Kuligin (http://github.com/shaman)
- and others.
+// Heading
+$_['heading_title'] = 'Сторінка, яку Ви шукали, відсутня!';
 
-Responsible for Translation:
- Eugene Kuligin (http://github.com/shaman)
-
-License http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL
-Ask a question http://github.com/opencart-ukraine
-
-************************************************************************************************************************/
-
-$_['heading_title'] = 'Запитану вами сторінку не знайдено!'; #44030
-$_['text_error'] = 'Запитану вами сторінку не знайдено.'; #44031
+// Text
+$_['text_error']    = 'Сторінка, яку Ви шукали, відсутня.';

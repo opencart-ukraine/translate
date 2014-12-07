@@ -1,30 +1,26 @@
 <?php
-/***********************************************************************************************************************
+// Heading
+$_['heading_title']				= 'Amazon Payments';
+$_['heading_address']			= 'Please choose a delivery address';
+$_['heading_payment']			= 'Please select a payment method';
+$_['heading_confirm']			= 'Order summary';
 
-Version 1.5.6
-Created 23:02 15.01.2014 UTF-8
-Copyright (C) 2010 Ukrainian Localization by OpenCart Ukrainian Team (http://github.com/opencart-ukraine). All rights reserved.
+// Text
+$_['text_back']					= 'Back';
+$_['text_cart']					= 'Cart';
+$_['text_confirm']				= 'Confirm';
+$_['text_continue']				= 'Continue';
+$_['text_cba']					= 'Amazon Payments';
+$_['text_enter_coupon']			= 'Enter your coupon code here. If you don\'t have one, leave it empty.';
+$_['text_coupon']				= 'Coupon';
+$_['text_tax_other']			= 'Taxes / Other handling fees';
+$_['text_payment_failed']		= 'Your payment has failed. Please contact the shop administrator for assistance or use a different payment option.';
+$_['text_success_title']		= 'Your order has been placed!';
+$_['text_payment_success']		= 'Your order was successfully placed. Order details are below';
 
-Responsible for Translation:
- Eugene Kuligin (http://github.com/shaman)
-
-License http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL
-Ask a question http://github.com/opencart-ukraine
-
-************************************************************************************************************************/
-
-$_['heading_title'] = 'Платежі Amazon'; #48478
-$_['heading_address'] = 'Будь ласка, оберіть адресу доставки.'; #48400
-$_['heading_payment'] = 'Будь ласка, оберіть метод оплати.'; #48401
-$_['heading_confirm'] = 'Загальна сума замовлення'; #48479
-$_['text_back'] = 'Назад'; #48402
-$_['text_cart'] = 'Кошик'; #48403
-$_['text_confirm'] = 'Підтвердити'; #48404
-$_['text_continue'] = 'Продовжити'; #48405
-$_['text_cba'] = 'Платежі Amazon'; #48480
-$_['text_payment_failed'] = 'Не вдалося здійснити Ваш платіж. Будь ласка, зверніться до адміністратора магазину за допомогою або використайте інший спосіб оплати.'; #48411
-$_['error_payment_method'] = 'Будь ласка, оберіть метод оплати.'; #48406
-$_['error_shipping'] = 'Будь ласка, оберіть метод доставки.'; #48407
-$_['error_shipping_address'] = 'Будь ласка, оберіть адресу доставки.'; #48408
-$_['error_shipping_methods'] = 'Сталася помилка при отриманні вашої адреси з Amazon. Будь ласка, зверніться до адміністратора магазину за допомогою.'; #48409
-$_['error_no_shipping_methods'] = 'За обраною адресою немає варіантів доставки. Будь ласка, оберіть іншу адресу доставки.'; #48410
+// Error
+$_['error_payment_method']		= 'Please select a payment method';
+$_['error_shipping']			= 'Please select a shipping method';
+$_['error_shipping_address']	= 'Please select a delivery address';
+$_['error_shipping_methods']	= 'There was an error retrieving your address from Amazon. Please contact the shop administrator for help';
+$_['error_no_shipping_methods'] = 'There are no shipping options to the selected address. Please select a different shipping address';
