@@ -12,7 +12,7 @@ $_['text_success']            = 'Ви успішно змінили достав
 $_['text_edit']               = 'Змінити доставку Parcelforce 48';
 
 // Entry
-$_['entry_rate']              = 'Тарифи Parcelforce 48;
+$_['entry_rate']              = 'Тарифи Parcelforce 48';
 $_['entry_insurance']         = 'Parcelforce48 компенсаційні збори';
 $_['entry_display_weight']    = 'Відображати вагу доставки';
 $_['entry_display_insurance'] = 'Відображати страхування';
