@@ -29,7 +29,7 @@ $_['column_description']    = 'Опис';
 $_['column_amount']         = 'Сума';
 $_['column_points']         = 'Бонусні бали';
 $_['column_ip']             = 'IP';
-$_['column_total']          = 'Профілі разом;
+$_['column_total']          = 'Профілі разом';
 $_['column_action']         = 'Дія';
 
 // Entry
