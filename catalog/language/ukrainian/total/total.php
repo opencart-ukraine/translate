@@ -4,4 +4,4 @@
 //Made by Sirchyk for www.marketplus.if.ua on 16 of october 2014.
 //info@marketplus.if.ua
 
-$_['text_total'] = 'Разом';
+$_['text_total'] = 'Всього до сплати';
