@@ -6,7 +6,7 @@
 
 // Heading
 $_['heading_title']           = 'Parcelforce 48';
-к
+
 $_['text_shipping']           = 'Доставка';
 $_['text_success']            = 'Ви успішно змінили доставку Parcelforce 48!';
 $_['text_edit']               = 'Змінити доставку Parcelforce 48';
