@@ -4,6 +4,10 @@
 //Made by Sirchyk for www.marketplus.if.ua on 16 of october 2014.
 //info@marketplus.if.ua
 
+//version 2.1.0.x
+//Changed by fradee (Oleksandr Fradynsky) with love to Ukraine and OpenCart at 22 October.2015
+//fradee@gmail.com
+
 // Heading
 $_['heading_title']          = 'Товари';
 
@@ -35,7 +39,7 @@ $_['entry_description']      = 'Опис';
 $_['entry_meta_title'] 	     = 'Мета Тег Назва';
 $_['entry_meta_keyword'] 	 = 'Мета Тег Ключові слова';
 $_['entry_meta_description'] = 'Мета Тег Опис';
-$_['entry_keyword']          = 'SEO Ключові слова';
+$_['entry_keyword']          = 'SEO URL';
 $_['entry_model']            = 'Модель';
 $_['entry_sku']              = 'SKU';
 $_['entry_upc']              = 'UPC';
@@ -86,7 +90,7 @@ $_['entry_layout']           = 'Ігнорувати макет';
 $_['entry_recurring']        = 'Повторюваний профіль';
 
 // Help
-$_['help_keyword']           = 'Не використовуйте пробіли, або замінюйте пробіли на "-" і не забудьте переконатися, що ключове слово повністю унікальне.';
+$_['help_keyword']           = 'Не використовуйте пробіли, або замінюйте пробіли на "-" і не забудьте переконатися, що SEO URL повністю унікальний.';
 $_['help_sku']               = 'Артикул';
 $_['help_upc']               = 'Універсальний код продукту';
 $_['help_ean']               = 'Європейський артикул';
