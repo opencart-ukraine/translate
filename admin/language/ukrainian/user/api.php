@@ -4,6 +4,10 @@
 //Made by Sirchyk for www.marketplus.if.ua on 16 of october 2014.
 //info@marketplus.if.ua
 
+//version 2.1.0.x
+//Changed by fradee (Oleksandr Fradynsky) with love to Ukraine and OpenCart at 21 October.2015
+//fradee@gmail.com
+
 // Heading
 $_['heading_title']        = 'API\'s';
 
@@ -24,6 +28,7 @@ $_['column_action']        = 'Дія';
 $_['entry_username']       = 'Ім`я користувача';
 $_['entry_password']       = 'Пароль';
 $_['entry_status']         = 'Статус';
+$_['entry_ip']             = 'IP';
 
 // Error
 $_['error_permission']     = 'У Вас немає доступу до зміни API\'s!';

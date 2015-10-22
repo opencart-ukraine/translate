@@ -4,6 +4,10 @@
 //Made by Sirchyk for www.marketplus.if.ua on 16 of october 2014.
 //info@marketplus.if.ua
 
+//version 2.1.0.x
+//Changed by fradee (Oleksandr Fradynsky) with love to Ukraine and OpenCart at 21 October.2015
+//fradee@gmail.com
+
 // Heading
 $_['heading_title']         = 'Настроювані Поля';
 
