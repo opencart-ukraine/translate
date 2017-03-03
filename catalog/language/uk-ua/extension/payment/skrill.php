@@ -5,4 +5,4 @@
 //info@marketplus.if.ua
 
 // Text
-$_['text_title'] = 'Кредитна / Дебетна карта (Moneybookers)';
+$_['text_title'] = 'Кредитна / Дебетна карта (Skrill)';

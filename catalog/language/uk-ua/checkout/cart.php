@@ -29,7 +29,7 @@ $_['text_recurring_item']    	              = 'Повторювані плате
 $_['text_payment_recurring']                    = 'Профіль оплати';
 $_['text_trial_description'] 	              = '%s кожний %d %s(s) для %d платіж(ів) тоді';
 $_['text_payment_description'] 	              = '%s кожний %d %s(s) для %d платіж(ів)';
-$_['text_payment_until_canceled_description'] = '%s кожний %d %s(s) поки не скасовано';
+$_['text_payment_cancel'] = '%s кожний %d %s(s) поки не скасовано';
 
 // Column
 $_['column_image']          = 'Зображення';

@@ -4,14 +4,30 @@
 //Made by Sirchyk for www.marketplus.if.ua on 16 of october 2014.
 //info@marketplus.if.ua
 
-// Heading
-$_['heading_title']				= 'Дякуємо за покупку в %s .... ';
-
 // Text
 $_['text_title']				= 'Кредитна / Дебетна карта (WorldPay)';
-$_['text_response']				= 'Відповідь від WorldPay:';
-$_['text_success']				= '... Ваш платіж успішно отримано.';
-$_['text_success_wait']			= '<b><span style="color: #FF0000">Зачекайте будь-ласка...</span></b> поки ми закінчимо обробляти Ваше замовлення.<br>Якщо протягом 10 секунд Ви не будете автоматично перенаправлені, будь-ласка натисніть <a href="%s">сюди</a>.';
-$_['text_failure']				= '... Ваш платіж скасовано!';
-$_['text_failure_wait']			= '<b><span style="color: #FF0000">Зачекайте будь-ласка...</span></b><br>Якщо протягом 10 секунд Ви не будете автоматично перенаправлені, будь-ласка натисніть <a href="%s">сюди</a>.';
-$_['text_pw_mismatch']			= 'CallbackPW не співпадає. Замовлення буде переглянуто.';
+$_['text_credit_card']		 = 'Card Details';
+$_['text_card_type']		 = 'Card Type: ';
+$_['text_card_name']		 = 'Card Name: ';
+$_['text_card_digits']		 = 'Last Digits: ';
+$_['text_card_expiry']		 = 'Expiry: ';
+$_['text_trial']			 = '%s every %s %s for %s payments then ';
+$_['text_recurring']		 = '%s every %s %s';
+$_['text_length']			 = ' for %s payments';
+$_['text_confirm_delete']	 = 'Are you sure you wish to delete this card';
+$_['text_card_success']		 = 'Card has been successfully removed';
+$_['text_card_error']		 = 'There are an error removing your card. Please contact the shop administrator for help.';
+
+// Entry
+$_['entry_card']			 = 'New or Existing Card: ';
+$_['entry_card_existing']	 = 'Existing';
+$_['entry_card_new']		 = 'New';
+$_['entry_card_save']		 = 'Remember Card Details';
+$_['entry_cc_cvc']			 = 'Card Verification Code (CVC)';
+$_['entry_cc_choice']		 = 'Choose an Existing Card';
+
+// Button
+$_['button_delete_card']	 = 'Delete Card';
+
+// Error
+$_['error_process_order']	 = 'There are an error processing your order. Please contact the shop administrator for help.';

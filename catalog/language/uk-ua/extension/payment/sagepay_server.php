@@ -22,6 +22,7 @@ $_['text_transaction_error']	= 'Виникла помилка в обробці 
 $_['text_generic_error']		= 'Виникла помилка обробки запиту.';
 $_['text_hash_failed']			= 'Не вдалося перевірити hash. Не намагайтеся ще раз проводити оплату оскільки статус оплати невідомий. Будь-ласка, зв’яжіться з продавцем.';
 $_['text_link']					= 'Будь-ласка, натисніть <a href="%s">тут</a> для продовження';
+$_['text_confirm_delete']		= 'Are you sure you want to delete the card?';
 
 // Entry
 $_['entry_card']				= 'Нова чи збережена карта: ';
@@ -29,3 +30,6 @@ $_['entry_card_existing']		= 'Збережена';
 $_['entry_card_new']			= 'Нова';
 $_['entry_card_save']			= 'Зберегти деталі карти для подальшого використання';
 $_['entry_cc_choice']			= 'Виберіть збережену карту';
+
+// Button
+$_['button_delete_card']		= 'Delete selected card';

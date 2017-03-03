@@ -19,5 +19,4 @@ $_['text_account']      = 'Обліковий запис';
 $_['text_order']        = 'Історія замовлень';
 $_['text_wishlist']     = 'Список побажань';
 $_['text_newsletter']   = 'Розсилання новин';
-$_['text_powered']      = 'Створено в <a href="http://www.opencart.com">OpenCart</a><br /> %s &copy; %s';
-
+$_['text_powered']      = 'Працює на <a href="https://opencart.ua">OpenCart</a><br /> %s &copy; %s';

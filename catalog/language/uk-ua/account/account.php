@@ -15,6 +15,7 @@ $_['text_my_newsletter'] = 'Розсилання новин';
 $_['text_edit']          = 'Редагувати обліковий запис';
 $_['text_password']      = 'Змінити пароль';
 $_['text_address']       = 'Змінити адреси Вашої адресної книги';
+$_['text_credit_card']   = 'Manage Stored Credit Cards';
 $_['text_wishlist']      = 'Змінити список бажаних товарів';
 $_['text_order']         = 'Переглянути історію замовлень';
 $_['text_download']      = 'Завантаження';

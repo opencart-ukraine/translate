@@ -21,11 +21,10 @@ $_['text_length']				= ' для %s оплат';
 $_['express_entry_coupon']		= 'Введіть Ваш купон тут:';
 
 // Button
-$_['express_button_coupon']		= 'Додати';
-$_['express_button_confirm']	= 'Підтвердити';
-$_['express_button_login']		= 'Продовжити в PayPal';
-$_['express_button_shipping']	= 'Оновити доставку';
-$_['button_cancel_recurring']	= 'Відмінити платежі';
+$_['button_express_coupon']		= 'Додати';
+$_['button_express_confirm']	= 'Підтвердити';
+$_['button_express_login']		= 'Продовжити в PayPal';
+$_['button_express_shipping']	= 'Оновити доставку';
 
 // Error
 $_['error_heading_title']		= 'Виникла помилка';

@@ -23,4 +23,5 @@ $_['entry_password']                = 'Пароль';
 
 // Error
 $_['error_login']                   = 'E-Mail і/чи пароль не співпадають.';
+$_['error_attempts']                = 'Warning: Your account has exceeded allowed number of login attempts. Please try again in 1 hour.';
 $_['error_approved']                = 'Ваш обліковий запис потребує підтвердження перед тим як Ви зможете ввійти.';

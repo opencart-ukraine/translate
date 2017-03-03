@@ -14,6 +14,8 @@ $_['text_card_expiry']			= 'Дійсна до: ';
 $_['text_trial']				= '%s кожні %s %s для %s оплат тоді ';
 $_['text_recurring']			= '%s кожні %s %s';
 $_['text_length']				= ' для %s оплат';
+$_['text_fail_card']			= 'There was an issue removing your SagePay card, Please contact the shop administrator for help.';
+$_['text_confirm_delete']		= 'Are you sure you want to delete the card?';
 
 // Entry
 $_['entry_card']				= 'Нова чи збережена карта: ';
@@ -23,12 +25,9 @@ $_['entry_card_save']			= 'Зберегти деталі карти';
 $_['entry_cc_owner']			= 'Власник карти';
 $_['entry_cc_type']				= 'Тип карти';
 $_['entry_cc_number']			= 'Номер карти';
-$_['entry_cc_start_date']		= 'Карта діє з';
 $_['entry_cc_expire_date']		= 'Карта діє до';
 $_['entry_cc_cvv2']				= 'Код безпеки карти (CVV2)';
-$_['entry_cc_issue']			= 'Номер емітента карти';
 $_['entry_cc_choice']			= 'Виберіть існуючу карту';
 
 // Help
-$_['help_start_date']			= '(якщо доступно)';
-$_['help_issue']				= '(тільки для Maestro і Solo карт)';
+$_['button_delete_card']		= 'Delete selected card';

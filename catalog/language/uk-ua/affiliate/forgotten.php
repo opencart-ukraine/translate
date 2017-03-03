@@ -19,3 +19,4 @@ $_['entry_email']     = 'E-Mail';
 
 // Error
 $_['error_email']     = 'E-Mail не знайдено в базі, спробуйте ще раз!';
+$_['error_approved']  = 'Warning: Your account requires approval before you can login.';

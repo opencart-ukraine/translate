@@ -8,4 +8,5 @@
 $_['text_success'] = 'API сесія успішно розпочата!';
 
 // Error
-$_['error_login']  = 'Ім`я і/чи пароль не співпадають.';
+$_['error_key']  = 'API ключ не співпадають.';
+$_['error_ip']   = 'Warning: Your IP %s is not allowed to access this API!';
