@@ -22,7 +22,7 @@ $_['text_bank']                 = 'Банківський переказ';
 $_['text_agree']                = 'І прочитав і погоджуюся з умовами <a href="%s" class="agree"><b>%s</b></a>';
 
 // Entry
-$_['entry_firstname']           = 'Ім`я';
+$_['entry_firstname']           = 'Ім\'я';
 $_['entry_lastname']            = 'Прізвище';
 $_['entry_email']               = 'E-Mail';
 $_['entry_telephone']           = 'Телефон';
@@ -37,19 +37,19 @@ $_['entry_country']             = 'Країна';
 $_['entry_zone']                = 'Район/Область';
 $_['entry_tax']                 = 'ІПН';
 $_['entry_payment']             = 'Метод оплати';
-$_['entry_cheque']              = 'Чек на ім`я';
+$_['entry_cheque']              = 'Чек на ім\'я';
 $_['entry_paypal']              = 'PayPal Email';
 $_['entry_bank_name']           = 'Назва банку';
 $_['entry_bank_branch_number']  = 'Номер ABA/BSB (Branch Number)';
 $_['entry_bank_swift_code']     = 'Код SWIFT';
-$_['entry_bank_account_name']   = 'Ім`я для банківського рахунку';
+$_['entry_bank_account_name']   = 'Ім\'я для банківського рахунку';
 $_['entry_bank_account_number'] = 'Номер банківського рахунку';
 $_['entry_password']            = 'Пароль';
 $_['entry_confirm']             = 'Підтвердження';
 
 // Error
 $_['error_exists']              = 'Цей E-Mail вже зареєстровано!';
-$_['error_firstname']           = 'Ім`я повинно містити від 1 до 32 символів!';
+$_['error_firstname']           = 'Ім\'я повинно містити від 1 до 32 символів!';
 $_['error_lastname']            = 'Прізвище повинно містити від 1 до 32 символів!';
 $_['error_email']               = 'Неправильний E-Mail!';
 $_['error_telephone']           = 'Телефон повинен містити від 3 до 32 символів!';
