@@ -8,7 +8,7 @@
 // Text
 $_['text_items']         = '%s товар(ів) - %s';
 $_['text_items2']        = '%s';
-$_['text_shopping_cart'] = 'Shopping Cart '; // Shopping Cart 
+$_['text_shopping_cart'] = 'Кошик '; // Shopping Cart 
 $_['text_empty']         = 'Ваш кошик порожній!';
 $_['text_cart']          = 'Переглянути кошик';
 $_['text_checkout']      = 'Оформити замовлення';
