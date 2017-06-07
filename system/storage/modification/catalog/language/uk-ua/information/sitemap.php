@@ -1,21 +1,25 @@
 <?php
+
+// translate for OpenCart 2.3.x by OpenCart Ukrainian Community http://opencart.ua
+// Made by ANT velmyshanovnyi@gmail.com | https://github.com/velmyshanovnyi
+// Made by ANT for https://github.com/opencart-ukraine/translate
+// version 2.3.x
+
 // Heading
-$_['heading_title']    = 'Site Map';
+$_['heading_title']    = 'Мапа сайту';
 
 // Text
-$_['text_special']     = 'Special Offers';
-$_['text_account']     = 'My Account';
-$_['text_edit']        = 'Account Information';
-$_['text_password']    = 'Password';
-$_['text_address']     = 'Address Book';
-$_['text_history']     = 'Order History';
-$_['text_download']    = 'Downloads';
-$_['text_cart']        = 'Shopping Cart';
-$_['text_checkout']    = 'Checkout';
-$_['text_search']      = 'Search';
-$_['text_information'] = 'Information';
-$_['text_contact']     = 'Contact Us';
-
-				$_['text_category']     = 'Categories';
-				$_['text_pages']     = 'Pages';
-				
+$_['text_special']     = 'Спеціальні пропозиції';
+$_['text_account']     = 'Обліковий запис';
+$_['text_edit']        = 'Інформація облікового запису';
+$_['text_password']    = 'Пароль';
+$_['text_address']     = 'Адресна книга';
+$_['text_history']     = 'Історія замовлень';
+$_['text_download']    = 'Завантаження';
+$_['text_cart']        = 'Кошик';
+$_['text_checkout']    = 'Оформити замовлення';
+$_['text_search']      = 'Пошук';
+$_['text_information'] = 'Інформація';
+$_['text_contact']     = 'Контакти';
+$_['text_category']    = 'Категорії';
+$_['text_pages']       = 'Сторінки';
