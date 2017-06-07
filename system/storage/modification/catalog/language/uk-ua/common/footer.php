@@ -1,17 +1,23 @@
 <?php
+
+// translate for OpenCart 2.3.x by OpenCart Ukrainian Community http://opencart.ua
+// Made by ANT velmyshanovnyi@gmail.com | https://github.com/velmyshanovnyi
+// Made by ANT for https://github.com/opencart-ukraine/translate
+// version 2.3.x
+
 // Text
-$_['text_information']  = 'Information';
-$_['text_service']      = 'Customer Service';
-$_['text_extra']        = 'Extras';
-$_['text_contact']      = 'Contact Us';
-$_['text_return']       = 'Returns';
-$_['text_sitemap']      = 'Site Map';
-$_['text_manufacturer'] = 'Brands';
-$_['text_voucher']      = 'Gift Certificates';
-$_['text_affiliate']    = 'Affiliates';
-$_['text_special']      = 'Specials';
-$_['text_account']      = 'My Account';
-$_['text_order']        = 'Order History';
-$_['text_wishlist']     = 'Wish List';
-$_['text_newsletter']   = 'Newsletter';
-$_['text_powered']      = 'Editor By <a target="_blank" href="http://maylove.in.ua/">Maylove</a><br />  <span class="hidden">%s</span> &copy; %s ';
+$_['text_information']  = 'Інформація';
+$_['text_service']      = 'Сервісні служби';
+$_['text_extra']        = 'Додатково';
+$_['text_contact']      = 'Контакти';
+$_['text_return']       = 'Повернення';
+$_['text_sitemap']      = 'Мапа сайту';
+$_['text_manufacturer'] = 'Бренди';
+$_['text_voucher']      = 'Подарункові сертифікати';
+$_['text_affiliate']    = 'Партнерська програма';
+$_['text_special']      = 'Спеціальні пропозиції';
+$_['text_account']      = 'Обліковий запис';
+$_['text_order']        = 'Історія замовлень';
+$_['text_wishlist']     = 'Список побажань';
+$_['text_newsletter']   = 'Розсилання новин';
+$_['text_powered']      = 'Створено на <a target="_blank" href="http://opencart.ua">OpenCart.UA</a><br /><span class="hidden">%s</span> &copy; %s ';
