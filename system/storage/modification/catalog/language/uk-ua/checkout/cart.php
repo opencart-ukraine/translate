@@ -1,46 +1,51 @@
 <?php
+
+// translate for OpenCart 2.3.x by OpenCart Ukrainian Community http://opencart.ua
+// Made by ANT velmyshanovnyi@gmail.com | https://github.com/velmyshanovnyi
+// Made by ANT for https://github.com/opencart-ukraine/translate
+// version 2.3.x
+
 // Heading
-$_['heading_title']            = 'Shopping Cart';
+$_['heading_title']            = 'Кошик';
 
 // Text
-$_['text_success']             = 'Success: You have added <a href="%s">%s</a> to your <a href="index.php?route=checkout/checkout">shopping cart</a>!';
-$_['text_remove']              = 'Success: You have modified your shopping cart!';
-$_['text_login']               = 'Attention: You must <a href="%s">login</a> or <a href="%s">create an account</a> to view prices!';
-
-				$_['text_items2']    = '%s';
-				$_['text_shopping_cart']    = 'Shopping Cart ';
-				
+$_['text_success']             = 'Ви додали <a href="%s">%s</a> до Вашого <a href="index.php?route=checkout/checkout">кошика</a>!';
+$_['text_remove']              = 'Ви успішно змінили Ваш кошик!';
+$_['text_login']               = 'Вам необхідно <a href="%s">авторизуватись</a> чи <a href="%s">створити профіль</a> щоб побачити ціни!';
+$_['text_items']               = '%s товар(ри) - %s';
+$_['text_items2']    		   = '%s';
+$_['text_shopping_cart']       = 'Shopping Cart ';
 $_['text_items']               = ' %s item(s) ';
-$_['text_points']              = 'Reward Points: %s';
-$_['text_next']                = 'What would you like to do next?';
-$_['text_next_choice']         = 'Choose if you have a discount code or reward points you want to use or would like to estimate your delivery cost.';
-$_['text_empty']               = 'Your shopping cart is empty!';
-$_['text_day']                 = 'day';
-$_['text_week']                = 'week';
-$_['text_semi_month']          = 'half-month';
-$_['text_month']               = 'month';
-$_['text_year']                = 'year';
-$_['text_trial']               = '%s every %s %s for %s payments then ';
-$_['text_recurring']           = '%s every %s %s';
-$_['text_length']              = ' for %s payments';
-$_['text_until_cancelled']     = 'until cancelled';
-$_['text_recurring_item']      = 'Recurring Item';
-$_['text_payment_recurring']   = 'Payment Profile';
-$_['text_trial_description']   = '%s every %d %s(s) for %d payment(s) then';
-$_['text_payment_description'] = '%s every %d %s(s) for %d payment(s)';
-$_['text_payment_cancel']      = '%s every %d %s(s) until canceled';
+$_['text_points']              = 'Бонусні бали: %s';
+$_['text_next']                = 'Що б Ви хотіли зробити далі?';
+$_['text_next_choice']         = 'Оберіть, якщо у Вас є дисконтний код або бонусні бали, які б Ви хотіли використати, або якщо б Ви хотіли визначити вартість доставки.'; // 'Choose if you have a discount code or reward points you want to use or would like to estimate your delivery cost.'
+$_['text_empty']               = 'Ваш кошик порожній!';
+$_['text_day']                 = 'день';
+$_['text_week']                = 'тиждень';
+$_['text_semi_month']          = 'половина місяця';
+$_['text_month']               = 'місяць';
+$_['text_year']                = 'рік';
+$_['text_trial']               = '%s кожний %s %s для %s платежів тоді ';
+$_['text_recurring']           = '%s кожний %s %s';
+$_['text_length']              = ' для %s платежів';
+$_['text_until_cancelled']     = 'поки не скасовано';
+$_['text_recurring_item']      = 'Повторювані платежі';
+$_['text_payment_recurring']   = 'Профіль оплати';
+$_['text_trial_description']   = '%s кожний %d %s(s) для %d платіж(ів) тоді';
+$_['text_payment_description'] = '%s кожний %d %s(s) для %d платіж(ів)';
+$_['text_payment_cancel']      = '%s кожний %d %s(s) поки не скасовано';
 
 // Column
-$_['column_image']             = 'Image';
-$_['column_name']              = 'Product Name';
-$_['column_model']             = 'Model';
-$_['column_quantity']          = 'Quantity';
-$_['column_price']             = 'Unit Price';
-$_['column_total']             = 'Total';
+$_['column_image']             = 'Зображення';
+$_['column_name']              = 'Назва товару';
+$_['column_model']             = 'Модель';
+$_['column_quantity']          = 'Кількість';
+$_['column_price']             = 'Ціна за одиницю';
+$_['column_total']             = 'Загалом';
 
 // Error
-$_['error_stock']              = 'Products marked with *** are not available in the desired quantity or not in stock!';
-$_['error_minimum']            = 'Minimum order amount for %s is %s!';
-$_['error_required']           = '%s required!';
-$_['error_product']            = 'Warning: There are no products in your cart!';
-$_['error_recurring_required'] = 'Please select a payment recurring!';
+$_['error_stock']              = 'Товари позначені *** закінчилися або їхній залишок менший від кількості яку Ви хочете замовити!';
+$_['error_minimum']            = 'Мінімальна кількість замовлення для %s становить %s!';
+$_['error_required']           = '%s необхідно!';
+$_['error_product']            = 'У Вашому кошику немає товарів!';
+$_['error_recurring_required'] = 'Будь-ласка виберіть повторюваний платіж!';
