@@ -7,4 +7,4 @@
 
 // Text
 $_['text_placeholder'] = 'Знайти щось для вашого будинку'; // 'Find anything for your home'
-$_['text_search'] = 'Пошук';
+$_['text_search']      = 'Пошук';

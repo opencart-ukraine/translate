@@ -14,7 +14,7 @@ $_['text_remove']              = 'Ви успішно змінили Ваш ко
 $_['text_login']               = 'Вам необхідно <a href="%s">авторизуватись</a> чи <a href="%s">створити профіль</a> щоб побачити ціни!';
 $_['text_items']               = '%s товар(ри) - %s';
 $_['text_items2']    		   = '%s';
-$_['text_shopping_cart']       = 'Shopping Cart ';
+$_['text_shopping_cart']       = 'Кошик ';
 $_['text_items']               = ' %s item(s) ';
 $_['text_points']              = 'Бонусні бали: %s';
 $_['text_next']                = 'Що б Ви хотіли зробити далі?';

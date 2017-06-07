@@ -9,7 +9,7 @@
 $_['text_sett']          = 'Налаштування'; 
 $_['text_home']          = 'Головна';
 $_['text_compare']       = 'Порівняння (%s)';  // 'Compare (%s)'
-$_['text_wishlist']      = 'Список побажань' ; // 'Wish List'
+$_['text_wishlist']      = 'Список побажань';  // 'Wish List'
 $_['text_shopping_cart'] = 'Кошик';
 $_['text_category']      = 'Категорії';
 $_['text_account']       = 'Обліковий запис' ;
