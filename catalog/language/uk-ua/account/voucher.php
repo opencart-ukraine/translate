@@ -16,7 +16,7 @@ $_['text_message']     = '<p>Дякуємо за покупку подарунк
 $_['text_for']         = '%s Подарунковий сертифікат для %s';
 
 // Entry
-$_['entry_to_name']    = 'Ім`я отримувача';
+$_['entry_to_name']    = 'Ім\'я отримувача';
 $_['entry_to_email']   = 'E-mail отримувача';
 $_['entry_from_name']  = 'Ваше ім\'я';
 $_['entry_from_email'] = 'Ваш e-mail';
