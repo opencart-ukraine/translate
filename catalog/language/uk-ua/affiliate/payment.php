@@ -20,7 +20,7 @@ $_['text_success']              = 'Ваш обліковий запис успі
 // Entry
 $_['entry_tax']                 = 'ІПН';
 $_['entry_payment']             = 'Спосіб оплати';
-$_['entry_cheque']              = 'Чек на ім`я';
+$_['entry_cheque']              = 'Чек на ім\'я';
 $_['entry_paypal']              = 'PayPal Email';
 $_['entry_bank_name']           = 'Назва банку';
 $_['entry_bank_branch_number']  = 'Номер ABA/BSB(Branch Number)';

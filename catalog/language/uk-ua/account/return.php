@@ -46,7 +46,7 @@ $_['column_action']      = 'Дія';
 // Entry
 $_['entry_order_id']     = 'Номер замовлення';
 $_['entry_date_ordered'] = 'Дата замовлення';
-$_['entry_firstname']    = 'Ім`я';
+$_['entry_firstname']    = 'Ім\'я';
 $_['entry_lastname']     = 'Прізвище';
 $_['entry_email']        = 'E-Mail';
 $_['entry_telephone']    = 'Телефон';
@@ -60,7 +60,7 @@ $_['entry_fault_detail'] = 'Несправність чи інші деталі'
 // Error
 $_['text_error']         = 'Повернення не знайдено!';
 $_['error_order_id']     = 'Необхідно вказати номер повернення!';
-$_['error_firstname']    = 'Ім`я повинно містити від 1 до 32 символів!';
+$_['error_firstname']    = 'Ім\'я повинно містити від 1 до 32 символів!';
 $_['error_lastname']     = 'Прізвище повинно містити від 1 до 32 символів!';
 $_['error_email']        = 'Неправильний E-Mail!';
 $_['error_telephone']    = 'Телефон повинен містити від 3 до 32 символів!';
