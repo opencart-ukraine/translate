@@ -11,8 +11,8 @@ $_['date_format_short']     = 'd/m/Y';
 $_['date_format_long']      = 'l dS F Y';
 $_['time_format']           = 'h:i:s A';
 $_['datetime_format']       = 'd/m/Y H:i:s';
-$_['decimal_point']         = ',';
-$_['thousand_point']        = '.';
+$_['decimal_point']         = '.';
+$_['thousand_point']        = ' ';
 
 // Text
 $_['text_home']             = '<i class="fa fa-home"></i>';
@@ -21,7 +21,7 @@ $_['text_no']               = 'Ні';
 $_['text_none']             = ' --- Немає --- ';
 $_['text_select']           = ' --- Оберіть --- ';
 $_['text_all_zones']        = 'Усі зони';
-$_['text_pagination']       = 'Показано %d по %d з %d (Всього сторінок %d)';
+$_['text_pagination']       = 'Відображено %d по %d з %d';
 $_['text_loading']          = 'Завантажується...';
 $_['text_no_results']       = 'No results!';
 
@@ -29,7 +29,7 @@ $_['text_no_results']       = 'No results!';
 $_['button_address_add']    = 'Додати адресу';
 $_['button_back']           = 'Назад';
 $_['button_continue']       = 'Продовжити';
-$_['button_cart']           = 'В кошик';
+$_['button_cart']           = 'До кошику';
 $_['button_cancel']         = 'Відмінити';
 $_['button_compare']        = 'Порівняти цей товар';
 $_['button_wishlist']       = 'Додати до списку бажань';
@@ -39,7 +39,7 @@ $_['button_coupon']         = 'Використати купон';
 $_['button_delete']         = 'Знищити';
 $_['button_download']       = 'Завантажити';
 $_['button_edit']           = 'Змінити';
-$_['button_filter']         = 'Уточнити пошук';
+$_['button_filter']         = 'Підібрати';
 $_['button_new_address']    = 'Додати адресу';
 $_['button_change_address'] = 'Змінити адресу';
 $_['button_reviews']        = 'Огляди';

@@ -15,7 +15,7 @@ $_['text_your_address'] = 'Ваша адреса';
 $_['text_success']      = 'Ваш обліковий запис було успішно змінено.';
 
 // Entry
-$_['entry_firstname']   = 'Ім`я';
+$_['entry_firstname']   = 'Ім\'я';
 $_['entry_lastname']    = 'Прізвище';
 $_['entry_email']       = 'E-Mail';
 $_['entry_telephone']   = 'Телефон';
@@ -31,7 +31,7 @@ $_['entry_zone']        = 'Район/Область';
 
 // Error
 $_['error_exists']      = 'Цей E-Mail вже зареєстровано!';
-$_['error_firstname']   = 'Ім`я повинно містити від 1 до 32 символів!';
+$_['error_firstname']   = 'Ім\'я повинно містити від 1 до 32 символів!';
 $_['error_lastname']    = 'Прізвище повинно містити від 1 до 32 символів!';
 $_['error_email']       = 'Неправильний E-Mail!';
 $_['error_telephone']   = 'Телефон повинен містити від 3 до 32 ссимволів!';

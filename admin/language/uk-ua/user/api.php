@@ -19,19 +19,19 @@ $_['text_edit']            = 'Змінити API';
 $_['text_ip']              = 'Below you can create a list of IP\'s allowed to access the API. Your current IP is %s';
 
 // Column
-$_['column_name']      = 'Ім`я користувача';
+$_['column_name']      = 'Ім\'я користувача';
 $_['column_status']        = 'Статус';
 $_['column_date_added']    = 'Дата додавання';
 $_['column_date_modified'] = 'Дата зміни';
 $_['column_action']        = 'Дія';
 
 // Entry
-$_['entry_name']       = 'Ім`я користувача';
+$_['entry_name']       = 'Ім\'я користувача';
 $_['entry_key']       = 'Пароль';
 $_['entry_status']         = 'Статус';
 $_['entry_ip']             = 'IP';
 
 // Error
 $_['error_permission']     = 'У Вас немає доступу до зміни API\'s!';
-$_['error_name']       = 'Ім`я користувача повинно містити від 3 до 20 символів!';
+$_['error_name']       = 'Ім\'я користувача повинно містити від 3 до 20 символів!';
 $_['error_key']       = 'API пароль повинен містити від 3 до 256 символів!';
