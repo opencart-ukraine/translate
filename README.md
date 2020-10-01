@@ -1,4 +1,4 @@
-translate
+OPENCART "translator" 
 =========
 OpenCart Translate
 
